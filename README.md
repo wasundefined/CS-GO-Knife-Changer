@@ -16,4 +16,5 @@ A simple program made by using Python and it allows you to change your CS:GO kni
 
 > Last but not least, press "V" on your keyboard to change your bread knife into the knife you had chosen.
 
-# This program is free. Do not pay anyone for this program.
+# I can't put upload the file here because it's size is bigger than 25MB
+> Link to download: https://www.mediafire.com/file/1ibieocrqluk7ey/Knife_Changer_Offine.exe/file
