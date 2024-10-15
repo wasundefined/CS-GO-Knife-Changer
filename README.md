@@ -1,4 +1,4 @@
-# CS-GO-Knife-Changer
+# CS: GO Knife Changer | Offline
 A simple program made by using Python and it allows you to change your CS:GO knife into any knife you want in offline mode.
 
 # How to use it?
