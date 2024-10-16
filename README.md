@@ -6,6 +6,8 @@ A simple program made by using Python and it allows you to change your CS:GO kni
 
 > Secondly run the executable and wait for it to launch.
 
+> Make sure that your keyboard language is set to TR/TURKISH
+
 > After it launches click on the "Enable Knife Changer" in the "Activation" tab.
 
 > You can also enable "Bhop" if u wish.
